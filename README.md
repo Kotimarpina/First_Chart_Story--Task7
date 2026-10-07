@@ -143,16 +143,3 @@ I also gained more practical experience with:
 
 ## 📁 Project Structure
 
-```text
-Task-07-World-Happiness-Data-Story/
-│
-├── World_Happiness_Data_Story.ipynb
-├── World_Happiness_Report_Data.xlsx
-├── Report.pdf
-├── README.md
-│
-└── visualizations/
-    ├── happiness_ranking.png
-    ├── gdp_vs_happiness.png
-    ├── social_support_vs_happiness.png
-    └── freedom_vs_happiness.png
